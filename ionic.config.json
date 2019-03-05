@@ -1,0 +1,7 @@
+{
+  "name": "KosaFBLA3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
